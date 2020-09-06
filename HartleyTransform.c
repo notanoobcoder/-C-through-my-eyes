@@ -1,4 +1,4 @@
-//HFT 
+//Hartley Transform 
 
 #include <stdio.h>
 #include <math.h>
